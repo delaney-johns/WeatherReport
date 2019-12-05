@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">WeatherReport</string>
+    <string name="description">Today\'s weather: %1$s</string>
+    <string name="visibility">Visibility: %1$s</string>
+    <string name="max_temp">High: %1$s</string>
+    <string name="min_temp">Low: %1$s</string>
+    <string name="sunrise">Sunrise: %1$s</string>
+    <string name="sunset">Sunset: %1$s</string>
+    <string name="humidity">Humidity: %1$s%% </string>
+    <string name="current_temp">Current Temperature: %1s</string>
+    <string name="pressure">Pressure: %1s hpa</string>
+    <string name="city_handler_msg">The activity does not implement the CityHandlerInterface</string>
+    <string name="action_settings">Settings</string>
+    <string name="dialog_title">New city</string>
+    <string name="positive_btn_text">OK</string>
+    <string name="empty_city_error_msg">This field can not be empty</string>
+    <string name="base_url">https://api.openweathermap.org/</string>
+    <string name="metric">metric</string>
+    <string name="app_id">e2bdfdee5a061bac24a2b9f40f7c825e</string>
+    <string name="png">.png</string>
+    <string name="img_url">https://openweathermap.org/img/w/</string>
+    <string name="city_not_found_text">The data for the city you requested cannot be found.</string>
+</resources>
